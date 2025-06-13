@@ -1,7 +1,7 @@
 # haveibeenpawned-wordlist
 haveibeenpawned wordlist from may 2025 based on the NTLM hashes.
 
-current recovered: 69.3% of 42.5GB with count removed. 
+current recovered: 75.4% of 42.5GB with count removed. 
 
 
 Working with a Tesla P4 8GB, so this will be a bit of a slow process. 
